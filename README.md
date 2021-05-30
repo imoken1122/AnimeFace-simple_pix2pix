@@ -29,8 +29,11 @@ Also, the dataset directory structure should look like this
  |>test
 ```
 
+<br>
+
+Let's start learning
 ```
-python train.py --input_path <img_dir> --model_name <identifiable name>
+$ python train.py --input_path <img_dir> --model_name <identifiable name>
 ```
 <br>
 
